@@ -26,3 +26,9 @@ Exercise Three: Fibonacci Sequence
 Apply the problem-solving steps to the following:
 
 Find the value at the nth position in the Fibonacci sequence. A Fibonacci sequence is a series of numbers, where the next number is the sum of the previous numbers. For example, if n is 6, then the value is 8 (the Fibonacci sequence is 1, 1, 2,3, 5, 8).
+
+
+1. Get the first two fibonacci parameters 1 & 2. 
+2. Calculate the third by doing last value = last value[-1] + last value[-2]
+3. Repeat step 2 n - 3 times.
+4. 1, 2, 3, 5, 8, 13, 21, 34
