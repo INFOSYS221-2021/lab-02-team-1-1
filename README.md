@@ -19,6 +19,9 @@ Organise a group meeting to discuss project ideas for INFOSYS 221.
 
 Silo Park Problem: Use maps to find the best solution for elimination, visualising different branches/options
 
+1. Use maps to find the best solution for elimination, visualising different branches/options
+2. We can use the following algorithm: - Branch and Bound In order to go from Silo Park to the UoA Business School.
+
 
 
 
