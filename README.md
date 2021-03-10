@@ -1,6 +1,13 @@
 # lab-02-team-1-1
 lab-02-team-1-1 created by GitHub Classroom
 
+By
+
+Steven Cao
+Devon McGrath
+Olivia Joe-West
+Daniyal Mahmood
+Michael Catterall
 
 
 Exercise One: Solving Day-to-Day problems
