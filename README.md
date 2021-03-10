@@ -9,6 +9,7 @@ By
 ###### Daniyal Mahmood
 ###### Michael Catterall
 
+![Uploading image.png…]()
 
 Exercise One: Solving Day-to-Day problems
 Apply the problem-solving steps to the following situations:
