@@ -18,6 +18,7 @@ Find the most convenient path from Silo Park to Business School.
 Organise a group meeting to discuss project ideas for INFOSYS 221.
 
 
+![image](https://user-images.githubusercontent.com/80368998/110566643-3436c380-81b5-11eb-8880-2fafa7ccc2f2.png)
 
 
 
