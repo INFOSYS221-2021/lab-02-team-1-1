@@ -17,7 +17,7 @@ Apply the problem-solving steps to the following situations:
 Find the most convenient path from Silo Park to Business School.
 Organise a group meeting to discuss project ideas for INFOSYS 221.
 
-Use maps to find the best solution for elimination, visualising different branches/options
+Silo Park Problem: Use maps to find the best solution for elimination, visualising different branches/options
 
 
 
